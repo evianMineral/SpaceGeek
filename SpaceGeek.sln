@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceGeek", "SpaceGeek\SpaceGeek.csproj", "{D308EA3B-1247-43D6-AF25-F5A4E03C86FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D308EA3B-1247-43D6-AF25-F5A4E03C86FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D308EA3B-1247-43D6-AF25-F5A4E03C86FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D308EA3B-1247-43D6-AF25-F5A4E03C86FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D308EA3B-1247-43D6-AF25-F5A4E03C86FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1037BACD-B4D5-49CA-B1C9-3603A310F59D}
+	EndGlobalSection
+EndGlobal
