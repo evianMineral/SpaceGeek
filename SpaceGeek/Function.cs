@@ -20,10 +20,10 @@ namespace SpaceGeek
         {
             List<FactResource> resources = new List<FactResource>();
             FactResource frFRResource = new FactResource("fr-FR");
-            frFRResource.SkillName = "Faits scientifiques Américain";
+            frFRResource.SkillName = "Anecdotes spatiales";
             frFRResource.GetFactMessage = "Voici une anecdote spatiale : ";
-            frFRResource.HelpMessage = " Vous pouvez dire \"donne moi un fait scientifique\" ou vous pouvez dire arrête... comment puis-je vous aider?";
-            frFRResource.HelpReprompt = "Vous pouvez dire \"donne moi un fait scientifique\" pour commencer";
+            frFRResource.HelpMessage = "Alexa, lance anecdote spatiale et dis-moi un fait spatial";
+            frFRResource.HelpReprompt = "Alexa, commence anecdote spatiale et donne-moi un fait spatial";
             frFRResource.StopMessage = "Au revoir !";
             frFRResource.Facts.Add("Une année sur Mercure ne dure que 88 jours.");
             frFRResource.Facts.Add("Bien qu'elle soit plus éloignée du Soleil, Vénus connaît des températures plus élevées que Mercure.");
